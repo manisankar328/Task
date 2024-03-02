@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <style>
+    body{
+        margin-left: 70px;
+    }
+ </style>  
+    <title>List</title>
+</head>
+<body>
+    <P style="text-align: center;"> <b><u>List of courses </u> </b></P>
+    <h4> Certification courses</h4>
+<ul>
+    <li>CCA</li>
+    <li>DTP</li>
+    <li>Tally</li>
+
+</ul>
+<h4>NIELIT Courses</h4>
+<ol style="list-style: upper-roman;">
+    <li>CCC</li>
+    <li>O level</li>
+    <li>A Level</li>
+</ol>
+<h4> Diploma Courses</h4>
+<ol style="list-style: upper-alpha;">
+    <li>DCA</li>
+    <li>ABCD</li>
+    <li>DFA</li>
+    <li>DDNY</li>
+</ol>
+<h4> Web designing Courses</h4>
+<ol>
+    <li>HTML</li>
+    <li>Css</li>
+    <li>Bootstrap</li>
+    <li>Javascript</li>
+</ol>
+</body>
+</html>

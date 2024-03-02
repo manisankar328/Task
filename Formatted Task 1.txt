@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Formatted tag</title>
+</head>
+<body>
+    <h1 style="text-align: center;">HTML Assingment 1</h1>
+    <hr>
+    <p>Its my <b>First HTML.</b> Assingment, I am excited to learn HTML..,and i want to become a <mark style="color: white; background-color: black;">FULL STACK DEVOLPER</mark> </p>
+<h1> Introduction to HTML</h1>
+<p>HTML <i> ( Hypertext Markup Language)</i> is used to create document on the <u>world wide web</u>. <i>Its is simply a collection of ccertain key words called "Tags" that are helpful in Writing the document to be displayed using a browser on internet.</i> HTML was devolped by <b>TIM BARNERS-LEE </b>in 1992</p>
+ 
+</body>
+</html>
